@@ -1,0 +1,14 @@
+4
+boy_10 is in a relationship with girl_1
+boy_9 is in a relationship with girl_3
+boy_8 is in a relationship with girl_4
+boy_7 is in a relationship with girl_5
+Gifting Description
+boy_10 gifts girl_1 withname gift_1
+boy_10 gifts girl_1 withname gift_2
+boy_9 gifts girl_3 withname gift_3
+boy_9 gifts girl_3 withname gift_4
+boy_8 gifts girl_4 withname gift_3
+boy_8 gifts girl_4 withname gift_4
+boy_7 gifts girl_5 withname gift_3
+boy_7 gifts girl_5 withname gift_4
