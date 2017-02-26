@@ -7,7 +7,7 @@ Operating System Type : 64 bit
 All codes have been tested on Eclipse Neon Version: Neon.2 Release (4.6.2)
 Build id: 20161208-0600
 ------------------------------------------------------------------------------------------------------------------------------------------
-For Question Number 1 :
+# For Question Number 1 :
 
 To run using command line
 1.trace the path where "q1.jar" is located
@@ -19,7 +19,7 @@ for documentation open doc/index.html
 
 class diagram is in question1classdiagram.pdf
 ------------------------------------------------------------------------------------------------------------------------------------------
-For Question Number 2 :
+# For Question Number 2 :
 
 To run using command line
 1.trace the path where "q2.jar" is located
