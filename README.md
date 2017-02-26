@@ -30,3 +30,4 @@ Input can be found in the files "BoyInput.txt" , "GirlInput.txt" and "GIFTInput.
 for documentation open doc/index.html
 
 class diagram is in question2classdiagram.pdf
+------------------------------------------------------------------------------------------------------------------------------------------
