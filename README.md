@@ -34,7 +34,15 @@ Input can be found in the files "BoyInput.txt" , "GirlInput.txt" and "GIFTInput.
 for documentation open doc/index.html
 
 class diagram is in classdiagram2.pdf
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# For DOCUMENTATION OF All questions from Q3 - Q8 go to Folder " Documentation for Q2 to Q8 " and then open the link " overview-summary.html " in a web browser .
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 # For Question Number 3 :
 1.Go to pplq3
 
