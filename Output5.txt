@@ -1,0 +1,3 @@
+boy_12 is in a relationship with girl_5
+boy_11 is in a relationship with girl_3
+boy_10 is in a relationship with girl_4

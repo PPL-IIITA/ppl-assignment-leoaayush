@@ -1,0 +1,20 @@
+Gifting Description
+boy_20 gifts girl_1 with gift_1
+boy_20 gifts girl_1 with gift_2
+boy_19 gifts girl_2 with gift_3
+boy_18 gifts girl_3 with gift_5
+boy_17 gifts girl_4 with gift_7
+boy_17 gifts girl_4 with gift_8
+boy_16 gifts girl_5 with gift_9
+boy_16 gifts girl_5 with gift_10
+boy_16 gifts girl_5 with gift_11
+
+Happiest Couples
+Happiness No. 1is with couple boy_18and girl_3
+Happiness No. 2is with couple boy_19and girl_2
+Happiness No. 3is with couple boy_20and girl_1
+
+Most Compatible Couples
+Compatibility No. 1is with couple boy_20and girl_1
+Compatibility No. 2is with couple boy_19and girl_2
+Compatibility No. 3is with couple boy_18and girl_3

@@ -1,0 +1,6 @@
+5
+boy_20 girl_1
+boy_19 girl_2
+boy_18 girl_3
+boy_17 girl_4
+boy_16 girl_5
