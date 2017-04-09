@@ -17,7 +17,7 @@ Input can be found in the files "BoyInput.txt" and "GirlInput.txt"
 
 for documentation open doc/index.html
 
-class diagram is in question1classdiagram.pdf
+class diagram is in classdiagram1.pdf
 ------------------------------------------------------------------------------------------------------------------------------------------
 # For Question Number 2 :
 
@@ -29,5 +29,5 @@ Input can be found in the files "BoyInput.txt" , "GirlInput.txt" and "GIFTInput.
 
 for documentation open doc/index.html
 
-class diagram is in question2classdiagram.pdf
+class diagram is in classdiagram2.pdf
 ------------------------------------------------------------------------------------------------------------------------------------------
