@@ -116,7 +116,7 @@ class diagram is in classdiagram2.pdf
 
 4.Copy All Input .txt Files ( BoyInput , GirlInput , GIFTInput , coupleq2 ) on the system , inside the project.
 
-5.Also here queryinput7.txt will be required , so copy inside the same project.
+# 5.Also here queryinput7.txt will be required , so copy inside the same project.
 
 6.Build and Run Main.java
 
